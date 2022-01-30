@@ -1,5 +1,5 @@
 # Front end of Video Summarization
-Created for UI
+Created for UI. Front end will pick up .mp4 from user and send it to the back end for editing. 
 
 ## Technologies
 FE is created with:
