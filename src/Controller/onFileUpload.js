@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-
+const link;   //define link
 
 const onFileUpload = (files, length)=> {
          
@@ -14,7 +14,7 @@ const onFileUpload = (files, length)=> {
   
 
  
-axios.post("http://94.237.116.244:5555/uploads", formData, {
+axios.post("link/uploads", formData, {
   headers: config
 })
 .then((response) => {
